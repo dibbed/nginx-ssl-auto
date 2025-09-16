@@ -1,3 +1,5 @@
+<div align="center">
+
 # Nginx SSL Auto 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -6,6 +8,7 @@
 
 Automated SSL certificate management for Nginx using Let's Encrypt. This tool simplifies the process of setting up and managing SSL certificates for your web applications.
 
+</div>
 ## ✨ Features
 
 - 🔐 **Automatic SSL Certificate Generation**: Uses Let's Encrypt to generate free SSL certificates
@@ -322,5 +325,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Nginx](https://nginx.org/) for the web server
 
 ---
+
+<div align="center">
+
+📄 برای نسخه فارسی [کلیک کنید](readme-fa.md)
+
+</div>
 
 ⭐ If this project helped you, please give it a star!
